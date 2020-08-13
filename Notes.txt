@@ -1,0 +1,7 @@
+The code takes about 1 minute to stitch 3 images of size 450x600.
+
+If the size of the image is more or the number of images are more than 3, then the image stitching takes around 10~30 minutes, depending on the size and number of images. 
+
+I have tried and tested on my machine with 16GB RAM.
+
+The data and extras folders contain the panorama.jpg file which is obtained by running stitch.py  
